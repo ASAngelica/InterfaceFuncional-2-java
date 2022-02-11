@@ -19,8 +19,7 @@ public class Program {
 		
 		list.forEach(new PriceUpdate());
 		
-		
-		//Reference method
+		//reference methods
 		list.forEach(System.out::println);
 		
 	}
